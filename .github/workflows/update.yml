@@ -1,0 +1,24 @@
+name: Auto Update Submodules
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-submodules:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          submodules: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update submodules to latest commit
+        run: |
+          git submodule update --init --recursive --remote
+          git add .
+          git commit -m "Авто-обновление сабмодулей" || echo "Нет изменений в коммите"
+          git push || echo "No changes to push"
