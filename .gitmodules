@@ -1,0 +1,63 @@
+[submodule "21-points"]
+	path = 21-points
+	url = https://github.com/Defolto/21-points.git
+[submodule "azino777"]
+	path = azino777
+	url = https://github.com/Defolto/azino777.git
+[submodule "chernila"]
+	path = chernila
+	url = https://github.com/Defolto/chernila.git
+[submodule "colodaCards"]
+	path = colodaCards
+	url = https://github.com/Defolto/colodaCards.git
+[submodule "fiboNumbers"]
+	path = fiboNumbers
+	url = https://github.com/Defolto/fiboNumbers.git
+[submodule "memoryGame"]
+	path = memoryGame
+	url = https://github.com/Defolto/memoryGame.git
+[submodule "newClocks"]
+	path = newClocks
+	url = https://github.com/Defolto/newClocks.git
+[submodule "randomGame"]
+	path = randomGame
+	url = https://github.com/Defolto/randomGame.git
+[submodule "searcher"]
+	path = searcher
+	url = https://github.com/Defolto/searcher.git
+[submodule "todoList"]
+	path = todoList
+	url = https://github.com/Defolto/todoList.git
+[submodule "auto-click"]
+	path = auto-click
+	url = https://github.com/Defolto/auto-click.git
+[submodule "bouncers"]
+	path = bouncers
+	url = https://github.com/Defolto/bouncers.git
+[submodule "cipherCaesar"]
+	path = cipherCaesar
+	url = https://github.com/Defolto/cipherCaesar.git
+[submodule "createrPassword"]
+	path = createrPassword
+	url = https://github.com/Defolto/createrPassword.git
+[submodule "localChat"]
+	path = localChat
+	url = https://github.com/Defolto/localChat.git
+[submodule "modalWindow"]
+	path = modalWindow
+	url = https://github.com/Defolto/modalWindow.git
+[submodule "pointerBody"]
+	path = pointerBody
+	url = https://github.com/Defolto/pointerBody.git
+[submodule "reactionGame"]
+	path = reactionGame
+	url = https://github.com/Defolto/reactionGame.git
+[submodule "rockPaperScissors"]
+	path = rockPaperScissors
+	url = https://github.com/Defolto/rockPaperScissors.git
+[submodule "site-minimalizm"]
+	path = site-minimalizm
+	url = https://github.com/Defolto/site-minimalizm.git
+[submodule "waterPoll"]
+	path = waterPoll
+	url = https://github.com/Defolto/waterPoll.git
